@@ -1,0 +1,86 @@
+/* ********TOP NAV********** */
+* {
+  /* border: 1px solid black; */
+  /* background-color: #553d67; */
+}
+
+.topnav {
+  margin-top: 5px;
+  background-color: #553d67;
+  padding: 20px 70px;
+  margin: 0;
+}
+
+.topnav a {
+  margin-top: 25px;
+  float: right;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+  font-size:25px;
+  width: 20%; /* Four links of equal widths */
+  text-align: center;
+}
+
+.main-banner {
+  margin: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ************FIRST ROW************ */
+.big-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* **********2ND ROW W/3 IMG*********** */
+.three-pics {
+display: inline-block;
+/* background-color: red; */
+margin-bottom: 40px;
+margin-left: 17%;
+}
+
+.images {
+  margin-right: 15px;
+}
+
+
+/* **********IMG & TEXT***************** */
+.info-content  {
+  display: inline-block;
+}
+
+.wrapper {
+  display: inline;
+}
+
+.text-scroll {
+  background-color: #553d67;
+  color: white;
+  font-style: initial;
+  height:300px;
+  width:300px;
+  /* border:1px solid #ccc */
+  font:16px/26px Georgia, Garamond, Serif;
+  overflow:auto;
+  /* margin-right: 0; */
+}
+
+.btn{
+  display: inline;
+}
+
+
+/* **********FOOTER********** */
+footer {
+  clear: both;
+  background-color: #553d67;
+  position: relative;
+  height: 150px;
+  /* margin-top: -200px; */
+}

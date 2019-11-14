@@ -42,12 +42,16 @@
 display: inline-block;
 /* background-color: red; */
 margin-bottom: 40px;
-margin-left: 18.5%;
+margin-left: 14.3%;
 }
 
-.images {
-  margin-right: 15px;
+.images img{
+  margin: 0 20px;
 }
+
+/* .images.images:second-child {
+  margin: 0, 20px;
+} */
 
 
 /* **********IMG & TEXT***************** */
